@@ -1,0 +1,101 @@
+ h1, h2{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    font-family: "";
+}
+
+.fila1{
+    width: 400px;
+    margin:auto;
+    background: rgba(234, 242, 248,1);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+.fila2{
+    width: 400px;
+    margin: auto;
+    background: rgba(234, 242, 248,1);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+#pie{
+    background: rgb(253, 235, 208);
+    text-align: center;
+}
+
+#agencia{
+ text-align: center;
+
+}
+
+
+#btn_matrimonio, 
+#btn_registrar, #btn_salir{
+    font-size: 20px;
+    padding: 30px;
+    width: 50%; 
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#div1, #div2{
+    margin: 30px;
+    width: 50%;
+}
+
+#divc{
+    max-width: 30px;
+    background: white;
+    border-color: red;
+ 
+}
+
+#divcontainer{
+    padding: 0px;
+     
+}
+
+#btn_registro_sig{
+    padding: 25px;
+    font-size: 20px;
+}
+
+table {    
+    border: #b9c9fe 5px solid;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 12px;    
+    margin: 45px;     
+    width: 480px; text-align: left;    
+    border-collapse: collapse; }
+    
+
+th { 
+    
+    font-size: 13px;     
+    font-weight: normal;     
+    padding: 8px;     
+    background: #b9c9fe;
+    border-top: 4px solid #aabcfe;    
+    border-bottom: 1px solid #fff; 
+    color: #039; 
+}
+
+td {  
+    
+    padding: 8px;     
+    background: #e8edff;     
+    border-bottom: 1px solid #fff;
+    color: #669;    
+    border-top: 1px solid transparent; }
+
+tr:hover td { 
+    background: #d0dafd;
+    color: #339; 
+}
